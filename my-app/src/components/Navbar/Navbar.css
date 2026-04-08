@@ -1,0 +1,17 @@
+.navbar-light {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.navbar-light .nav-link {
+  color: #333333;
+}
+
+.navbar-dark {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.navbar-dark .nav-link {
+  color: #ffffff;
+}

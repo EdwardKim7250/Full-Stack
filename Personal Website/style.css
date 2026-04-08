@@ -1,0 +1,80 @@
+body {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 400;
+    background-color: #f5f3ef;
+    color: #2c2c2c;
+    line-height: 1.7;
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 60px 40px 80px;
+}
+
+h1 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 3rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    text-align: center;
+    letter-spacing: -0.5px;
+    margin-bottom: 12px;
+}
+
+h2 {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #b34a2a;
+    margin-top: 48px;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #d9d4cc;
+}
+
+h3 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-top: 24px;
+    margin-bottom: 4px;
+}
+
+p {
+    font-size: 0.925rem;
+    color: #4a4a4a;
+    max-width: 100%;
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-weight: 300;
+}
+
+a {
+    color: #adbf39;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b34a2a;
+    text-decoration: underline;
+}
+
+.contact-links {
+    text-align: center;
+    margin: auto;
+    max-width: 100%;
+    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    color: #888;
+}
+
+#greeting {
+    text-align: center;
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: #888;
+    margin: 8px auto 20px auto;
+    letter-spacing: 0.04em;
+    font-style: italic;
+}
